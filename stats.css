@@ -38,7 +38,7 @@
         hsla(277, 77%, 26%, 0.5) 0%,
         hsla(277, 77%, 26%, 0.5) 100%
     ),
-    url(C:\imagebureau.jpg) center no-repeat ;
+    url(imagebureau.jpg) center no-repeat ;
     background-size: cover; 
 }
 .desc h1 span{
